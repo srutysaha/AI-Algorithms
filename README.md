@@ -27,7 +27,7 @@ Python programs from the course- Artificial Intelligence
 1. Write a Program to Perform Length of List
 2. Write a Program to Perform Reverse in List.
 ## Unit 13
-1. Write a Prolog program to perform Arithmetic Mean.
+1. Write a Program to perform Arithmetic Mean.
 2. Write a Program to Check Vowels or Not.
 ## Unit 14
 Machine Learning: Version Space Search, Explanation Based Learning.
