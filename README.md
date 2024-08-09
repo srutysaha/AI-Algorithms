@@ -1,5 +1,9 @@
 # Artificial Intelligence (AI)-Lab
 Python programs from the course- Artificial Intelligence
+## Python Fundamentals: 
+https://colab.research.google.com/drive/1YB-5WIEnH03KhAQPN120skhP4zb9nhcD?usp=sharing
+## OOP in Python:
+https://colab.research.google.com/drive/14dG9m6tvynp0DksqqjJ25hK4viSZ04M1?usp=sharing
 ## Unit 2
 1. Write a program to implementation of DFS
 2. Write a program to implementation of BFS
